@@ -1,1 +1,1 @@
-# landing-page
+# A simple landing for a website
